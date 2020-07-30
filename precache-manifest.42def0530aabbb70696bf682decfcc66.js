@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6bb969099547f8abedbc45df4499bdef",
+    "revision": "a50b7e7e0ce56918796e6d33252e99e1",
     "url": "/firegram-image-gallery-react/index.html"
   },
   {
-    "revision": "f92ece3aa1237e08c308",
+    "revision": "8af990858e37b6b8758e",
     "url": "/firegram-image-gallery-react/static/css/main.ac4a3041.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/firegram-image-gallery-react/static/js/2.496294bf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f92ece3aa1237e08c308",
-    "url": "/firegram-image-gallery-react/static/js/main.195afcf5.chunk.js"
+    "revision": "8af990858e37b6b8758e",
+    "url": "/firegram-image-gallery-react/static/js/main.a40d3bb0.chunk.js"
   },
   {
     "revision": "39d2577de7ee3e0779a5",
